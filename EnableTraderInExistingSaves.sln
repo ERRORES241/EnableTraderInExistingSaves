@@ -1,18 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36717.8 d17.14
+VisualStudioVersion = 17.14.36717.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnableTraderInExistingSaves", "EnableTraderInExistingSaves.csproj", "{EF51A7D5-C4DF-41A8-A2D6-24CAE9F7718D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Disable|Any CPU = Disable|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{EF51A7D5-C4DF-41A8-A2D6-24CAE9F7718D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EF51A7D5-C4DF-41A8-A2D6-24CAE9F7718D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF51A7D5-C4DF-41A8-A2D6-24CAE9F7718D}.Disable|Any CPU.ActiveCfg = Disable|Any CPU
+		{EF51A7D5-C4DF-41A8-A2D6-24CAE9F7718D}.Disable|Any CPU.Build.0 = Disable|Any CPU
 		{EF51A7D5-C4DF-41A8-A2D6-24CAE9F7718D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF51A7D5-C4DF-41A8-A2D6-24CAE9F7718D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection

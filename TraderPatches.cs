@@ -16,7 +16,7 @@ namespace EnableTrader
                 return;
 
             // This is the actual flag from your TraderState.cs
-            state.m_SystemEnabled = true;
+            state.m_SystemEnabled = false;
         }
     }
 }
